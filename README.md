@@ -55,7 +55,7 @@ A Python script for managing Linux users with a user-friendly command-line inter
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-user-manager.git
+git clone https://github.com/Suryasai369/linux-user-manager.git
 cd linux-user-manager
 ```
 

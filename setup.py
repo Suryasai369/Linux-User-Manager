@@ -6,8 +6,8 @@ setup(
     name="linux-user-manager",
     version="1.0.0",
     description="A user-friendly command-line tool for managing Linux users",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Surya Sai",
+    author_email="suryasai.m.p@gmail.com",
     packages=find_packages(),
     install_requires=[
         "typing;python_version<'3.5'"
